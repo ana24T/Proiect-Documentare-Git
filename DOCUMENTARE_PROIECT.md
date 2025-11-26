@@ -35,7 +35,7 @@
 * | :--- | :--- | :--- |
 * | `git add .` | Mute toate fișierele noi/modificate în zona de staging (pregătire). | \*\*Staging\*\* |
 * | `git commit -m "Initial commit: Adaugare fisier de documentare"` | Creează prima versiune permanentă (commit) a proiectului. | \*\*Commit\*\* |
-* | `git remote add origin \[URL\_REPO]` | Conectează repository-ul local la cel remote de pe GitHub. | \*\*Conectare Remote\*\* |
+* | git remote add origin https://github.com/ana24T/Proiect-Documentare-Git.git | Conectează repository-ul local la cel remote de pe GitHub. | \*\*Conectare Remote\*\* |
 * | `git push -u origin main` | Încarcă commit-ul local de pe branch-ul `main` la repository-ul remote `origin`. | \*\*Push\*\* |
 * 
 * \### 3. Dezvoltare pe Branch-uri (Branching)
@@ -62,3 +62,4 @@
 * 
 * \## ✅ Concluzie
 * Toate operațiunile Git de bază și avansate (Branching, Pull) au fost realizate cu succes. Istoricul commit-urilor pe repository-ul GitHub confirmă fiecare etapă a procesului.
+
